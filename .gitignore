@@ -1,0 +1,5 @@
+/popbook-mobile/bin
+/popbook-mobile/obj/Debug
+/popbook-mobile/*.user
+/popbook-mobile/Web.Debug.config
+_._
